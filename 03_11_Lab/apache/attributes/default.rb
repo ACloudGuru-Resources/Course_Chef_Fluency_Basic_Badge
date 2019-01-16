@@ -1,0 +1,1 @@
+default['company']['name'] = 'Awesome Inc.'
